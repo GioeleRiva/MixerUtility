@@ -1,0 +1,16 @@
+c:\users\eg0\documents\visual studio 2017\Projects\MixerUtility\MixerUtility\bin\Debug\MixerUtility.exe.config
+c:\users\eg0\documents\visual studio 2017\Projects\MixerUtility\MixerUtility\bin\Debug\MixerUtility.exe
+c:\users\eg0\documents\visual studio 2017\Projects\MixerUtility\MixerUtility\bin\Debug\MixerUtility.pdb
+c:\users\eg0\documents\visual studio 2017\Projects\MixerUtility\MixerUtility\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+c:\users\eg0\documents\visual studio 2017\Projects\MixerUtility\MixerUtility\bin\Debug\AudioSwitcher.AudioApi.dll
+c:\users\eg0\documents\visual studio 2017\Projects\MixerUtility\MixerUtility\obj\Debug\MixerUtility.csprojResolveAssemblyReference.cache
+c:\users\eg0\documents\visual studio 2017\Projects\MixerUtility\MixerUtility\obj\Debug\MixerUtility.exe
+c:\users\eg0\documents\visual studio 2017\Projects\MixerUtility\MixerUtility\obj\Debug\MixerUtility.pdb
+D:\Users\Eg0\Documents\Visual Studio 2017\Projects\MixerUtility\MixerUtility\bin\Debug\MixerUtility.exe.config
+D:\Users\Eg0\Documents\Visual Studio 2017\Projects\MixerUtility\MixerUtility\bin\Debug\MixerUtility.exe
+D:\Users\Eg0\Documents\Visual Studio 2017\Projects\MixerUtility\MixerUtility\bin\Debug\MixerUtility.pdb
+D:\Users\Eg0\Documents\Visual Studio 2017\Projects\MixerUtility\MixerUtility\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+D:\Users\Eg0\Documents\Visual Studio 2017\Projects\MixerUtility\MixerUtility\bin\Debug\AudioSwitcher.AudioApi.dll
+D:\Users\Eg0\Documents\Visual Studio 2017\Projects\MixerUtility\MixerUtility\obj\Debug\MixerUtility.csprojResolveAssemblyReference.cache
+D:\Users\Eg0\Documents\Visual Studio 2017\Projects\MixerUtility\MixerUtility\obj\Debug\MixerUtility.exe
+D:\Users\Eg0\Documents\Visual Studio 2017\Projects\MixerUtility\MixerUtility\obj\Debug\MixerUtility.pdb

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "attività-MixerUtility",
+      "appliesTo": "MixerUtility.sln",
+      "type": "command"
+    }
+  ]
+}
